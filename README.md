@@ -112,7 +112,16 @@
 
 <img src="https://streak-stats.demolab.com?user=Joho6666&locale=zh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joho6666&bg_color=00000000&color=8B5CF6&line=6D28D9&point=DB2777&area=true&area_color=8B5CF640&hide_border=true" alt="activity" width="100%" />
+</div>
+
+## 📈 活跃概览
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joho6666&theme=tokyonight" alt="profile details" width="100%" />
+
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joho6666&theme=tokyonight" alt="most commit languages" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joho6666&theme=tokyonight" alt="productive time" />
 
 </div>
 
@@ -120,7 +129,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Joho6666&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" width="100%" />
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Joho6666?theme=tokyonight&card_type=github&prefer_login=true" alt="user stats" height="200" />
 
 </div>
 
